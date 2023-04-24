@@ -17,3 +17,9 @@ This program where your program is saved. Creates download folder there. papers 
 to run t program 
 
 python filename.py
+
+change the number of pages in program file
+
+# Set the number of pages to fetch
+
+num_pages = 5
