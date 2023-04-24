@@ -20,6 +20,6 @@ python filename.py
 
 change the number of pages in program file
 
-# Set the number of pages to fetch
+Set the number of pages to fetch
 
 num_pages = 5
